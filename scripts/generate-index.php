@@ -27,7 +27,7 @@ foreach ($files as $file) {
         'file' => $filename,
         'format' => $ext,
         'size' => filesize($file),
-        'url' => "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/{$filename}"
+        'url' => "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/{$filename}"
     ];
 }
 
@@ -40,7 +40,7 @@ $index = [
     'version' => '1.0.0',
     'updated' => date('Y-m-d H:i:s'),
     'count' => count($logos),
-    'base_url' => 'https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/',
+    'base_url' => 'https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/',
     'logos' => $logos
 ];
 

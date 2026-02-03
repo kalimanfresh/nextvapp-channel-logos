@@ -6,7 +6,7 @@ A centralized repository of TV channel logos for the NEXTV streaming platform.
 
 ### Direct URL Access
 ```
-https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/{channel-name}.png
+https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/{channel-name}.png
 ```
 
 ### API Endpoint
