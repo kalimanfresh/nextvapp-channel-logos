@@ -1,0 +1,1504 @@
+{
+    "version": "1.0.0",
+    "updated": "2026-02-03 05:07:32",
+    "count": 187,
+    "base_url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/",
+    "logos": [
+        {
+            "id": "abc",
+            "name": "Abc",
+            "file": "abc.png",
+            "format": "png",
+            "size": 21748,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/abc.png"
+        },
+        {
+            "id": "abc-news",
+            "name": "Abc News",
+            "file": "abc-news.jpg",
+            "format": "jpg",
+            "size": 157459,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/abc-news.jpg"
+        },
+        {
+            "id": "ae",
+            "name": "Ae",
+            "file": "ae.jpg",
+            "format": "jpg",
+            "size": 2968,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/ae.jpg"
+        },
+        {
+            "id": "altitude-sports",
+            "name": "Altitude Sports",
+            "file": "altitude-sports.jpg",
+            "format": "jpg",
+            "size": 61387,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/altitude-sports.jpg"
+        },
+        {
+            "id": "Angeles-lakers",
+            "name": "Angeles Lakers",
+            "file": "Angeles-lakers.jpg",
+            "format": "jpg",
+            "size": 10519,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Angeles-lakers.jpg"
+        },
+        {
+            "id": "antena-latina",
+            "name": "Antena Latina",
+            "file": "antena-latina.png",
+            "format": "png",
+            "size": 6531,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/antena-latina.png"
+        },
+        {
+            "id": "antena-latina-rd",
+            "name": "Antena Latina Rd",
+            "file": "antena-latina-rd.svg",
+            "format": "svg",
+            "size": 366,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/antena-latina-rd.svg"
+        },
+        {
+            "id": "arizona-diamond-backs",
+            "name": "Arizona Diamond Backs",
+            "file": "arizona-diamond-backs.png",
+            "format": "png",
+            "size": 13360,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/arizona-diamond-backs.png"
+        },
+        {
+            "id": "atlanta-braves",
+            "name": "Atlanta Braves",
+            "file": "atlanta-braves.png",
+            "format": "png",
+            "size": 59032,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/atlanta-braves.png"
+        },
+        {
+            "id": "axn",
+            "name": "Axn",
+            "file": "axn.png",
+            "format": "png",
+            "size": 85130,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/axn.png"
+        },
+        {
+            "id": "axn-2",
+            "name": "Axn 2",
+            "file": "axn-2.png",
+            "format": "png",
+            "size": 6563,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/axn-2.png"
+        },
+        {
+            "id": "baby-bus",
+            "name": "Baby Bus",
+            "file": "baby-bus.png",
+            "format": "png",
+            "size": 1494190,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/baby-bus.png"
+        },
+        {
+            "id": "bally-sports",
+            "name": "Bally Sports",
+            "file": "bally-sports.png",
+            "format": "png",
+            "size": 76086,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/bally-sports.png"
+        },
+        {
+            "id": "Bein-sports",
+            "name": "Bein Sports",
+            "file": "Bein-sports.png",
+            "format": "png",
+            "size": 164013,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Bein-sports.png"
+        },
+        {
+            "id": "bein-sports",
+            "name": "Bein Sports",
+            "file": "bein-sports.png",
+            "format": "png",
+            "size": 7295,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/bein-sports.png"
+        },
+        {
+            "id": "boston-red-sox",
+            "name": "Boston Red Sox",
+            "file": "boston-red-sox.png",
+            "format": "png",
+            "size": 3962,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/boston-red-sox.png"
+        },
+        {
+            "id": "braves",
+            "name": "Braves",
+            "file": "braves.png",
+            "format": "png",
+            "size": 7739,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/braves.png"
+        },
+        {
+            "id": "Cadinals",
+            "name": "Cadinals",
+            "file": "Cadinals.png",
+            "format": "png",
+            "size": 10330,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Cadinals.png"
+        },
+        {
+            "id": "canal-caracol",
+            "name": "Canal Caracol",
+            "file": "canal-caracol.png",
+            "format": "png",
+            "size": 7208,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/canal-caracol.png"
+        },
+        {
+            "id": "canelo",
+            "name": "Canelo",
+            "file": "canelo.png",
+            "format": "png",
+            "size": 1208703,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/canelo.png"
+        },
+        {
+            "id": "caracol",
+            "name": "Caracol",
+            "file": "caracol.jpg",
+            "format": "jpg",
+            "size": 9164,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/caracol.jpg"
+        },
+        {
+            "id": "caracol-internacional",
+            "name": "Caracol Internacional",
+            "file": "caracol-internacional.jpg",
+            "format": "jpg",
+            "size": 9164,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/caracol-internacional.jpg"
+        },
+        {
+            "id": "cartoon-network",
+            "name": "Cartoon Network",
+            "file": "cartoon-network.png",
+            "format": "png",
+            "size": 1972,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/cartoon-network.png"
+        },
+        {
+            "id": "Caza-y-pezca",
+            "name": "Caza Y Pezca",
+            "file": "Caza-y-pezca.png",
+            "format": "png",
+            "size": 3320,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Caza-y-pezca.png"
+        },
+        {
+            "id": "cdn",
+            "name": "Cdn",
+            "file": "cdn.png",
+            "format": "png",
+            "size": 11296,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/cdn.png"
+        },
+        {
+            "id": "cdn",
+            "name": "Cdn",
+            "file": "cdn.svg",
+            "format": "svg",
+            "size": 242,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/cdn.svg"
+        },
+        {
+            "id": "certv",
+            "name": "Certv",
+            "file": "certv.svg",
+            "format": "svg",
+            "size": 244,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/certv.svg"
+        },
+        {
+            "id": "chavo-del-8",
+            "name": "Chavo Del 8",
+            "file": "chavo-del-8.png",
+            "format": "png",
+            "size": 246536,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/chavo-del-8.png"
+        },
+        {
+            "id": "chicago-cubs",
+            "name": "Chicago Cubs",
+            "file": "chicago-cubs.png",
+            "format": "png",
+            "size": 4396,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/chicago-cubs.png"
+        },
+        {
+            "id": "chicago-white-sox",
+            "name": "Chicago White Sox",
+            "file": "chicago-white-sox.png",
+            "format": "png",
+            "size": 50072,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/chicago-white-sox.png"
+        },
+        {
+            "id": "Chuchu-tv",
+            "name": "Chuchu Tv",
+            "file": "Chuchu-tv.jpg",
+            "format": "jpg",
+            "size": 4291,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Chuchu-tv.jpg"
+        },
+        {
+            "id": "cincinatti-reds",
+            "name": "Cincinatti Reds",
+            "file": "cincinatti-reds.png",
+            "format": "png",
+            "size": 3207,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/cincinatti-reds.png"
+        },
+        {
+            "id": "cine-dinamita",
+            "name": "Cine Dinamita",
+            "file": "cine-dinamita.png",
+            "format": "png",
+            "size": 6262,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/cine-dinamita.png"
+        },
+        {
+            "id": "color-vision",
+            "name": "Color Vision",
+            "file": "color-vision.png",
+            "format": "png",
+            "size": 7408,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/color-vision.png"
+        },
+        {
+            "id": "colorvision",
+            "name": "Colorvision",
+            "file": "colorvision.png",
+            "format": "png",
+            "size": 1249,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/colorvision.png"
+        },
+        {
+            "id": "comedy-central",
+            "name": "Comedy Central",
+            "file": "comedy-central.png",
+            "format": "png",
+            "size": 2825,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/comedy-central.png"
+        },
+        {
+            "id": "cooking-channel",
+            "name": "Cooking Channel",
+            "file": "cooking-channel.png",
+            "format": "png",
+            "size": 5914,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/cooking-channel.png"
+        },
+        {
+            "id": "coral",
+            "name": "Coral",
+            "file": "coral.png",
+            "format": "png",
+            "size": 5446,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/coral.png"
+        },
+        {
+            "id": "coral-39",
+            "name": "Coral 39",
+            "file": "coral-39.png",
+            "format": "png",
+            "size": 5446,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/coral-39.png"
+        },
+        {
+            "id": "coral-39",
+            "name": "Coral 39",
+            "file": "coral-39.webp",
+            "format": "webp",
+            "size": 34264,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/coral-39.webp"
+        },
+        {
+            "id": "denver-nugets",
+            "name": "Denver Nugets",
+            "file": "denver-nugets.jpg",
+            "format": "jpg",
+            "size": 17767,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/denver-nugets.jpg"
+        },
+        {
+            "id": "Destination-america",
+            "name": "Destination America",
+            "file": "Destination-america.png",
+            "format": "png",
+            "size": 8014,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Destination-america.png"
+        },
+        {
+            "id": "detroit-pistons",
+            "name": "Detroit Pistons",
+            "file": "detroit-pistons.jpg",
+            "format": "jpg",
+            "size": 18193,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/detroit-pistons.jpg"
+        },
+        {
+            "id": "detroit-tigers",
+            "name": "Detroit Tigers",
+            "file": "detroit-tigers.png",
+            "format": "png",
+            "size": 39672,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/detroit-tigers.png"
+        },
+        {
+            "id": "digital-15",
+            "name": "Digital 15",
+            "file": "digital-15.gif",
+            "format": "gif",
+            "size": 19006,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/digital-15.gif"
+        },
+        {
+            "id": "digital-15",
+            "name": "Digital 15",
+            "file": "digital-15.png",
+            "format": "png",
+            "size": 26211,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/digital-15.png"
+        },
+        {
+            "id": "discovery-chanel",
+            "name": "Discovery Chanel",
+            "file": "discovery-chanel.jpg",
+            "format": "jpg",
+            "size": 10457,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/discovery-chanel.jpg"
+        },
+        {
+            "id": "discovery-channel",
+            "name": "Discovery Channel",
+            "file": "discovery-channel.jpg",
+            "format": "jpg",
+            "size": 10457,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/discovery-channel.jpg"
+        },
+        {
+            "id": "discovery-familia",
+            "name": "Discovery Familia",
+            "file": "discovery-familia.png",
+            "format": "png",
+            "size": 5942,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/discovery-familia.png"
+        },
+        {
+            "id": "discovery-home-&-health",
+            "name": "Discovery Home & Health",
+            "file": "discovery-home-&-health.png",
+            "format": "png",
+            "size": 4159,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/discovery-home-&-health.png"
+        },
+        {
+            "id": "discovery-turbo",
+            "name": "Discovery Turbo",
+            "file": "discovery-turbo.png",
+            "format": "png",
+            "size": 2365,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/discovery-turbo.png"
+        },
+        {
+            "id": "disney-channel",
+            "name": "Disney Channel",
+            "file": "disney-channel.png",
+            "format": "png",
+            "size": 59041,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/disney-channel.png"
+        },
+        {
+            "id": "disney-xd",
+            "name": "Disney Xd",
+            "file": "disney-xd.png",
+            "format": "png",
+            "size": 7044,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/disney-xd.png"
+        },
+        {
+            "id": "dragon-ball-z",
+            "name": "Dragon Ball Z",
+            "file": "dragon-ball-z.png",
+            "format": "png",
+            "size": 151156,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/dragon-ball-z.png"
+        },
+        {
+            "id": "el-chavo",
+            "name": "El Chavo",
+            "file": "el-chavo.png",
+            "format": "png",
+            "size": 876449,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/el-chavo.png"
+        },
+        {
+            "id": "el-lider-5",
+            "name": "El Lider 5",
+            "file": "el-lider-5.png",
+            "format": "png",
+            "size": 6644,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/el-lider-5.png"
+        },
+        {
+            "id": "encore-classic",
+            "name": "Encore Classic",
+            "file": "encore-classic.png",
+            "format": "png",
+            "size": 15921,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/encore-classic.png"
+        },
+        {
+            "id": "encore-western",
+            "name": "Encore Western",
+            "file": "encore-western.png",
+            "format": "png",
+            "size": 5560,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/encore-western.png"
+        },
+        {
+            "id": "encore-westerns",
+            "name": "Encore Westerns",
+            "file": "encore-westerns.png",
+            "format": "png",
+            "size": 47957,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/encore-westerns.png"
+        },
+        {
+            "id": "Epix-hits",
+            "name": "Epix Hits",
+            "file": "Epix-hits.png",
+            "format": "png",
+            "size": 3996,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Epix-hits.png"
+        },
+        {
+            "id": "espn",
+            "name": "Espn",
+            "file": "espn.png",
+            "format": "png",
+            "size": 4120,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/espn.png"
+        },
+        {
+            "id": "espn-deportes",
+            "name": "Espn Deportes",
+            "file": "espn-deportes.png",
+            "format": "png",
+            "size": 4415,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/espn-deportes.png"
+        },
+        {
+            "id": "espn2",
+            "name": "Espn2",
+            "file": "espn2.png",
+            "format": "png",
+            "size": 1838,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/espn2.png"
+        },
+        {
+            "id": "espn3",
+            "name": "Espn3",
+            "file": "espn3.jpg",
+            "format": "jpg",
+            "size": 6330,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/espn3.jpg"
+        },
+        {
+            "id": "food-network",
+            "name": "Food Network",
+            "file": "food-network.png",
+            "format": "png",
+            "size": 6150,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/food-network.png"
+        },
+        {
+            "id": "Fox-25",
+            "name": "Fox 25",
+            "file": "Fox-25.jpg",
+            "format": "jpg",
+            "size": 7531,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Fox-25.jpg"
+        },
+        {
+            "id": "fox-deportes",
+            "name": "Fox Deportes",
+            "file": "fox-deportes.png",
+            "format": "png",
+            "size": 12328,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/fox-deportes.png"
+        },
+        {
+            "id": "fox-deportes",
+            "name": "Fox Deportes",
+            "file": "fox-deportes.webp",
+            "format": "webp",
+            "size": 20138,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/fox-deportes.webp"
+        },
+        {
+            "id": "Fubo-sports",
+            "name": "Fubo Sports",
+            "file": "Fubo-sports.jpg",
+            "format": "jpg",
+            "size": 56930,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Fubo-sports.jpg"
+        },
+        {
+            "id": "fxm",
+            "name": "Fxm",
+            "file": "fxm.png",
+            "format": "png",
+            "size": 2535,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/fxm.png"
+        },
+        {
+            "id": "fxx",
+            "name": "Fxx",
+            "file": "fxx.png",
+            "format": "png",
+            "size": 2319,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/fxx.png"
+        },
+        {
+            "id": "golden-edge",
+            "name": "Golden Edge",
+            "file": "golden-edge.png",
+            "format": "png",
+            "size": 3048,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/golden-edge.png"
+        },
+        {
+            "id": "goltv",
+            "name": "Goltv",
+            "file": "goltv.webp",
+            "format": "webp",
+            "size": 4604,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/goltv.webp"
+        },
+        {
+            "id": "hbo",
+            "name": "Hbo",
+            "file": "hbo.jpg",
+            "format": "jpg",
+            "size": 3717,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/hbo.jpg"
+        },
+        {
+            "id": "hbo-signature",
+            "name": "Hbo Signature",
+            "file": "hbo-signature.png",
+            "format": "png",
+            "size": 5409,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/hbo-signature.png"
+        },
+        {
+            "id": "hbo-zone",
+            "name": "Hbo Zone",
+            "file": "hbo-zone.png",
+            "format": "png",
+            "size": 3312,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/hbo-zone.png"
+        },
+        {
+            "id": "hbo2",
+            "name": "Hbo2",
+            "file": "hbo2.png",
+            "format": "png",
+            "size": 4866,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/hbo2.png"
+        },
+        {
+            "id": "hogar-tv",
+            "name": "Hogar Tv",
+            "file": "hogar-tv.webp",
+            "format": "webp",
+            "size": 2210,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/hogar-tv.webp"
+        },
+        {
+            "id": "HogarTV",
+            "name": "HogarTV",
+            "file": "HogarTV.webp",
+            "format": "webp",
+            "size": 2210,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/HogarTV.webp"
+        },
+        {
+            "id": "houston-astros",
+            "name": "Houston Astros",
+            "file": "houston-astros.png",
+            "format": "png",
+            "size": 57900,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/houston-astros.png"
+        },
+        {
+            "id": "ID",
+            "name": "ID",
+            "file": "ID.jpg",
+            "format": "jpg",
+            "size": 7496,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/ID.jpg"
+        },
+        {
+            "id": "images-2",
+            "name": "Images 2",
+            "file": "images-2.png",
+            "format": "png",
+            "size": 1754,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/images-2.png"
+        },
+        {
+            "id": "investigation-discovery",
+            "name": "Investigation Discovery",
+            "file": "investigation-discovery.jpg",
+            "format": "jpg",
+            "size": 7496,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/investigation-discovery.jpg"
+        },
+        {
+            "id": "lidom",
+            "name": "Lidom",
+            "file": "lidom.jpg",
+            "format": "jpg",
+            "size": 80126,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/lidom.jpg"
+        },
+        {
+            "id": "lifetime",
+            "name": "Lifetime",
+            "file": "lifetime.png",
+            "format": "png",
+            "size": 3225,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/lifetime.png"
+        },
+        {
+            "id": "liga-dominicana",
+            "name": "Liga Dominicana",
+            "file": "liga-dominicana.png",
+            "format": "png",
+            "size": 3460649,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/liga-dominicana.png"
+        },
+        {
+            "id": "Logo-caracol-internacional-cmyk-osc",
+            "name": "Logo Caracol Internacional Cmyk Osc",
+            "file": "Logo-caracol-internacional-cmyk-osc.jpg",
+            "format": "jpg",
+            "size": 9164,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Logo-caracol-internacional-cmyk-osc.jpg"
+        },
+        {
+            "id": "logo-starzkidsfamily-b",
+            "name": "Logo Starzkidsfamily B",
+            "file": "logo-starzkidsfamily-b.gif",
+            "format": "gif",
+            "size": 1867,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/logo-starzkidsfamily-b.gif"
+        },
+        {
+            "id": "marlins",
+            "name": "Marlins",
+            "file": "marlins.jpg",
+            "format": "jpg",
+            "size": 10361,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/marlins.jpg"
+        },
+        {
+            "id": "mega-tv",
+            "name": "Mega Tv",
+            "file": "mega-tv.jpg",
+            "format": "jpg",
+            "size": 7530,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/mega-tv.jpg"
+        },
+        {
+            "id": "mega-tv (3)",
+            "name": "Mega Tv (3)",
+            "file": "mega-tv (3).jpg",
+            "format": "jpg",
+            "size": 3487,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/mega-tv (3).jpg"
+        },
+        {
+            "id": "milwaukee-brewers",
+            "name": "Milwaukee Brewers",
+            "file": "milwaukee-brewers.png",
+            "format": "png",
+            "size": 191120,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/milwaukee-brewers.png"
+        },
+        {
+            "id": "movistar-liga",
+            "name": "Movistar Liga",
+            "file": "movistar-liga.png",
+            "format": "png",
+            "size": 10390,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/movistar-liga.png"
+        },
+        {
+            "id": "mtv",
+            "name": "Mtv",
+            "file": "mtv.jpg",
+            "format": "jpg",
+            "size": 54062,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/mtv.jpg"
+        },
+        {
+            "id": "Natgeo-wild",
+            "name": "Natgeo Wild",
+            "file": "Natgeo-wild.png",
+            "format": "png",
+            "size": 2557,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Natgeo-wild.png"
+        },
+        {
+            "id": "nba",
+            "name": "Nba",
+            "file": "nba.jpg",
+            "format": "jpg",
+            "size": 2359213,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/nba.jpg"
+        },
+        {
+            "id": "nba-logo",
+            "name": "Nba Logo",
+            "file": "nba-logo.jpg",
+            "format": "jpg",
+            "size": 14600,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/nba-logo.jpg"
+        },
+        {
+            "id": "nesn",
+            "name": "Nesn",
+            "file": "nesn.png",
+            "format": "png",
+            "size": 6631,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/nesn.png"
+        },
+        {
+            "id": "new-york-mets",
+            "name": "New York Mets",
+            "file": "new-york-mets.png",
+            "format": "png",
+            "size": 54014,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/new-york-mets.png"
+        },
+        {
+            "id": "New york-yankees",
+            "name": "New York Yankees",
+            "file": "New york-yankees.png",
+            "format": "png",
+            "size": 5088,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/New york-yankees.png"
+        },
+        {
+            "id": "new-york-yankees",
+            "name": "New York Yankees",
+            "file": "new-york-yankees.jpg",
+            "format": "jpg",
+            "size": 10462,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/new-york-yankees.jpg"
+        },
+        {
+            "id": "nfl",
+            "name": "Nfl",
+            "file": "nfl.png",
+            "format": "png",
+            "size": 5794,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/nfl.png"
+        },
+        {
+            "id": "nfl",
+            "name": "Nfl",
+            "file": "nfl.webp",
+            "format": "webp",
+            "size": 42444,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/nfl.webp"
+        },
+        {
+            "id": "One-soccer",
+            "name": "One Soccer",
+            "file": "One-soccer.png",
+            "format": "png",
+            "size": 17138,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/One-soccer.png"
+        },
+        {
+            "id": "OWN",
+            "name": "OWN",
+            "file": "OWN.png",
+            "format": "png",
+            "size": 5078,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/OWN.png"
+        },
+        {
+            "id": "own",
+            "name": "Own",
+            "file": "own.png",
+            "format": "png",
+            "size": 5078,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/own.png"
+        },
+        {
+            "id": "oxygen",
+            "name": "Oxygen",
+            "file": "oxygen.png",
+            "format": "png",
+            "size": 12711,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/oxygen.png"
+        },
+        {
+            "id": "Pac-12",
+            "name": "Pac 12",
+            "file": "Pac-12.png",
+            "format": "png",
+            "size": 235481,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Pac-12.png"
+        },
+        {
+            "id": "pac-12",
+            "name": "Pac 12",
+            "file": "pac-12.png",
+            "format": "png",
+            "size": 235481,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/pac-12.png"
+        },
+        {
+            "id": "pasiones",
+            "name": "Pasiones",
+            "file": "pasiones.png",
+            "format": "png",
+            "size": 6261,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/pasiones.png"
+        },
+        {
+            "id": "peravia-vision",
+            "name": "Peravia Vision",
+            "file": "peravia-vision.png",
+            "format": "png",
+            "size": 190650,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/peravia-vision.png"
+        },
+        {
+            "id": "philadelphia-phillies",
+            "name": "Philadelphia Phillies",
+            "file": "philadelphia-phillies.png",
+            "format": "png",
+            "size": 29926,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/philadelphia-phillies.png"
+        },
+        {
+            "id": "Pirates-pitburg",
+            "name": "Pirates Pitburg",
+            "file": "Pirates-pitburg.png",
+            "format": "png",
+            "size": 4766,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Pirates-pitburg.png"
+        },
+        {
+            "id": "ppv",
+            "name": "Ppv",
+            "file": "ppv.png",
+            "format": "png",
+            "size": 21408,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/ppv.png"
+        },
+        {
+            "id": "RAI",
+            "name": "RAI",
+            "file": "RAI.png",
+            "format": "png",
+            "size": 12456,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/RAI.png"
+        },
+        {
+            "id": "rai",
+            "name": "Rai",
+            "file": "rai.png",
+            "format": "png",
+            "size": 12456,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/rai.png"
+        },
+        {
+            "id": "rcn",
+            "name": "Rcn",
+            "file": "rcn.png",
+            "format": "png",
+            "size": 4579,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/rcn.png"
+        },
+        {
+            "id": "Rcn-television",
+            "name": "Rcn Television",
+            "file": "Rcn-television.gif",
+            "format": "gif",
+            "size": 7168,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Rcn-television.gif"
+        },
+        {
+            "id": "redsox",
+            "name": "Redsox",
+            "file": "redsox.png",
+            "format": "png",
+            "size": 128015,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/redsox.png"
+        },
+        {
+            "id": "ritmoson",
+            "name": "Ritmoson",
+            "file": "ritmoson.png",
+            "format": "png",
+            "size": 14355,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/ritmoson.png"
+        },
+        {
+            "id": "rnn",
+            "name": "Rnn",
+            "file": "rnn.jpg",
+            "format": "jpg",
+            "size": 7082,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/rnn.jpg"
+        },
+        {
+            "id": "rnn",
+            "name": "Rnn",
+            "file": "rnn.png",
+            "format": "png",
+            "size": 1859,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/rnn.png"
+        },
+        {
+            "id": "rnn",
+            "name": "Rnn",
+            "file": "rnn.svg",
+            "format": "svg",
+            "size": 242,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/rnn.svg"
+        },
+        {
+            "id": "San-diego-padres",
+            "name": "San Diego Padres",
+            "file": "San-diego-padres.png",
+            "format": "png",
+            "size": 11275,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/San-diego-padres.png"
+        },
+        {
+            "id": "serie-del-caribe",
+            "name": "Serie Del Caribe",
+            "file": "serie-del-caribe.jpg",
+            "format": "jpg",
+            "size": 269472,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/serie-del-caribe.jpg"
+        },
+        {
+            "id": "showtime-extreme",
+            "name": "Showtime Extreme",
+            "file": "showtime-extreme.png",
+            "format": "png",
+            "size": 6328,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/showtime-extreme.png"
+        },
+        {
+            "id": "sitmoson",
+            "name": "Sitmoson",
+            "file": "sitmoson.png",
+            "format": "png",
+            "size": 2569,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/sitmoson.png"
+        },
+        {
+            "id": "Sky-cinema-action",
+            "name": "Sky Cinema Action",
+            "file": "Sky-cinema-action.png",
+            "format": "png",
+            "size": 5611,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Sky-cinema-action.png"
+        },
+        {
+            "id": "STAR-channel",
+            "name": "STAR Channel",
+            "file": "STAR-channel.png",
+            "format": "png",
+            "size": 29933,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/STAR-channel.png"
+        },
+        {
+            "id": "star-disney",
+            "name": "Star Disney",
+            "file": "star-disney.jpg",
+            "format": "jpg",
+            "size": 67054,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/star-disney.jpg"
+        },
+        {
+            "id": "Star-Movies-Action",
+            "name": "Star Movies Action",
+            "file": "Star-Movies-Action.jpg",
+            "format": "jpg",
+            "size": 5732,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Star-Movies-Action.jpg"
+        },
+        {
+            "id": "star-movies-action",
+            "name": "Star Movies Action",
+            "file": "star-movies-action.jpg",
+            "format": "jpg",
+            "size": 5732,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/star-movies-action.jpg"
+        },
+        {
+            "id": "starz",
+            "name": "Starz",
+            "file": "starz.png",
+            "format": "png",
+            "size": 2180,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/starz.png"
+        },
+        {
+            "id": "starz-comedy",
+            "name": "Starz Comedy",
+            "file": "starz-comedy.png",
+            "format": "png",
+            "size": 4469,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/starz-comedy.png"
+        },
+        {
+            "id": "starz-encore",
+            "name": "Starz Encore",
+            "file": "starz-encore.png",
+            "format": "png",
+            "size": 1795,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/starz-encore.png"
+        },
+        {
+            "id": "starz-kids",
+            "name": "Starz Kids",
+            "file": "starz-kids.png",
+            "format": "png",
+            "size": 4402,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/starz-kids.png"
+        },
+        {
+            "id": "starz-kids-family",
+            "name": "Starz Kids Family",
+            "file": "starz-kids-family.gif",
+            "format": "gif",
+            "size": 1867,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/starz-kids-family.gif"
+        },
+        {
+            "id": "super-tv-55",
+            "name": "Super Tv 55",
+            "file": "super-tv-55.png",
+            "format": "png",
+            "size": 4932,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/super-tv-55.png"
+        },
+        {
+            "id": "supertv55x",
+            "name": "Supertv55x",
+            "file": "supertv55x.png",
+            "format": "png",
+            "size": 4932,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/supertv55x.png"
+        },
+        {
+            "id": "syfy",
+            "name": "Syfy",
+            "file": "syfy.png",
+            "format": "png",
+            "size": 1730,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/syfy.png"
+        },
+        {
+            "id": "tampa-bay-rays",
+            "name": "Tampa Bay Rays",
+            "file": "tampa-bay-rays.png",
+            "format": "png",
+            "size": 18778,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/tampa-bay-rays.png"
+        },
+        {
+            "id": "TBS",
+            "name": "TBS",
+            "file": "TBS.png",
+            "format": "png",
+            "size": 2234,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/TBS.png"
+        },
+        {
+            "id": "tbs",
+            "name": "Tbs",
+            "file": "tbs.png",
+            "format": "png",
+            "size": 2234,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/tbs.png"
+        },
+        {
+            "id": "Teen-nick",
+            "name": "Teen Nick",
+            "file": "Teen-nick.png",
+            "format": "png",
+            "size": 2454,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Teen-nick.png"
+        },
+        {
+            "id": "tele-salbador",
+            "name": "Tele Salbador",
+            "file": "tele-salbador.jpg",
+            "format": "jpg",
+            "size": 22392,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/tele-salbador.jpg"
+        },
+        {
+            "id": "Tele-sur",
+            "name": "Tele Sur",
+            "file": "Tele-sur.png",
+            "format": "png",
+            "size": 3394,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Tele-sur.png"
+        },
+        {
+            "id": "TELE-UNIVERSO",
+            "name": "TELE UNIVERSO",
+            "file": "TELE-UNIVERSO.jpg",
+            "format": "jpg",
+            "size": 7907,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/TELE-UNIVERSO.jpg"
+        },
+        {
+            "id": "tele-universo",
+            "name": "Tele Universo",
+            "file": "tele-universo.jpg",
+            "format": "jpg",
+            "size": 7907,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/tele-universo.jpg"
+        },
+        {
+            "id": "teleantillas",
+            "name": "Teleantillas",
+            "file": "teleantillas.svg",
+            "format": "svg",
+            "size": 366,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/teleantillas.svg"
+        },
+        {
+            "id": "telecentro",
+            "name": "Telecentro",
+            "file": "telecentro.jpg",
+            "format": "jpg",
+            "size": 3305,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/telecentro.jpg"
+        },
+        {
+            "id": "Telehits",
+            "name": "Telehits",
+            "file": "Telehits.jpg",
+            "format": "jpg",
+            "size": 17664,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Telehits.jpg"
+        },
+        {
+            "id": "Telemetro",
+            "name": "Telemetro",
+            "file": "Telemetro.png",
+            "format": "png",
+            "size": 7560,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Telemetro.png"
+        },
+        {
+            "id": "telemetro",
+            "name": "Telemetro",
+            "file": "telemetro.png",
+            "format": "png",
+            "size": 7560,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/telemetro.png"
+        },
+        {
+            "id": "Telemicro",
+            "name": "Telemicro",
+            "file": "Telemicro.png",
+            "format": "png",
+            "size": 15752,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Telemicro.png"
+        },
+        {
+            "id": "telemicro",
+            "name": "Telemicro",
+            "file": "telemicro.png",
+            "format": "png",
+            "size": 133645,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/telemicro.png"
+        },
+        {
+            "id": "telemundo",
+            "name": "Telemundo",
+            "file": "telemundo.png",
+            "format": "png",
+            "size": 12722,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/telemundo.png"
+        },
+        {
+            "id": "Telemundo-internacional",
+            "name": "Telemundo Internacional",
+            "file": "Telemundo-internacional.jpg",
+            "format": "jpg",
+            "size": 6235,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Telemundo-internacional.jpg"
+        },
+        {
+            "id": "Telemundo-puerto-rico",
+            "name": "Telemundo Puerto Rico",
+            "file": "Telemundo-puerto-rico.jpg",
+            "format": "jpg",
+            "size": 17625,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Telemundo-puerto-rico.jpg"
+        },
+        {
+            "id": "telesistema",
+            "name": "Telesistema",
+            "file": "telesistema.png",
+            "format": "png",
+            "size": 3721,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/telesistema.png"
+        },
+        {
+            "id": "telesistema",
+            "name": "Telesistema",
+            "file": "telesistema.svg",
+            "format": "svg",
+            "size": 242,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/telesistema.svg"
+        },
+        {
+            "id": "television-dominicana",
+            "name": "Television Dominicana",
+            "file": "television-dominicana.png",
+            "format": "png",
+            "size": 97952,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/television-dominicana.png"
+        },
+        {
+            "id": "texas-rangers",
+            "name": "Texas Rangers",
+            "file": "texas-rangers.png",
+            "format": "png",
+            "size": 45933,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/texas-rangers.png"
+        },
+        {
+            "id": "TLC",
+            "name": "TLC",
+            "file": "TLC.png",
+            "format": "png",
+            "size": 1608,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/TLC.png"
+        },
+        {
+            "id": "tlc",
+            "name": "Tlc",
+            "file": "tlc.png",
+            "format": "png",
+            "size": 1608,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/tlc.png"
+        },
+        {
+            "id": "TNT-Serie",
+            "name": "TNT Serie",
+            "file": "TNT-Serie.png",
+            "format": "png",
+            "size": 97897,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/TNT-Serie.png"
+        },
+        {
+            "id": "tnt-series",
+            "name": "Tnt Series",
+            "file": "tnt-series.png",
+            "format": "png",
+            "size": 97897,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/tnt-series.png"
+        },
+        {
+            "id": "toronto-blue-jays",
+            "name": "Toronto Blue Jays",
+            "file": "toronto-blue-jays.png",
+            "format": "png",
+            "size": 70636,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/toronto-blue-jays.png"
+        },
+        {
+            "id": "Toronto-Raptors",
+            "name": "Toronto Raptors",
+            "file": "Toronto-Raptors.jpg",
+            "format": "jpg",
+            "size": 13313,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Toronto-Raptors.jpg"
+        },
+        {
+            "id": "Travel-Channel",
+            "name": "Travel Channel",
+            "file": "Travel-Channel.jpg",
+            "format": "jpg",
+            "size": 5247,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Travel-Channel.jpg"
+        },
+        {
+            "id": "TSI",
+            "name": "TSI",
+            "file": "TSI.jpg",
+            "format": "jpg",
+            "size": 6945,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/TSI.jpg"
+        },
+        {
+            "id": "TUDN",
+            "name": "TUDN",
+            "file": "TUDN.png",
+            "format": "png",
+            "size": 25892,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/TUDN.png"
+        },
+        {
+            "id": "tudn",
+            "name": "Tudn",
+            "file": "tudn.png",
+            "format": "png",
+            "size": 25892,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/tudn.png"
+        },
+        {
+            "id": "tvdom",
+            "name": "Tvdom",
+            "file": "tvdom.png",
+            "format": "png",
+            "size": 97952,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/tvdom.png"
+        },
+        {
+            "id": "tyc-sports",
+            "name": "Tyc Sports",
+            "file": "tyc-sports.png",
+            "format": "png",
+            "size": 3467,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/tyc-sports.png"
+        },
+        {
+            "id": "Universal-channel",
+            "name": "Universal Channel",
+            "file": "Universal-channel.webp",
+            "format": "webp",
+            "size": 12292,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Universal-channel.webp"
+        },
+        {
+            "id": "universal-channel",
+            "name": "Universal Channel",
+            "file": "universal-channel.jpg",
+            "format": "jpg",
+            "size": 7988,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/universal-channel.jpg"
+        },
+        {
+            "id": "universal-crime",
+            "name": "Universal Crime",
+            "file": "universal-crime.png",
+            "format": "png",
+            "size": 4078,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/universal-crime.png"
+        },
+        {
+            "id": "universo",
+            "name": "Universo",
+            "file": "universo.png",
+            "format": "png",
+            "size": 5626,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/universo.png"
+        },
+        {
+            "id": "univision",
+            "name": "Univision",
+            "file": "univision.jpg",
+            "format": "jpg",
+            "size": 10543,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/univision.jpg"
+        },
+        {
+            "id": "urbano",
+            "name": "Urbano",
+            "file": "urbano.png",
+            "format": "png",
+            "size": 2143,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/urbano.png"
+        },
+        {
+            "id": "wapa",
+            "name": "Wapa",
+            "file": "wapa.png",
+            "format": "png",
+            "size": 11939,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/wapa.png"
+        },
+        {
+            "id": "washington-nationals",
+            "name": "Washington Nationals",
+            "file": "washington-nationals.png",
+            "format": "png",
+            "size": 69272,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/washington-nationals.png"
+        },
+        {
+            "id": "we-tv",
+            "name": "We Tv",
+            "file": "we-tv.png",
+            "format": "png",
+            "size": 3327,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/we-tv.png"
+        },
+        {
+            "id": "WETV",
+            "name": "WETV",
+            "file": "WETV.png",
+            "format": "png",
+            "size": 3327,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/WETV.png"
+        },
+        {
+            "id": "wipr",
+            "name": "Wipr",
+            "file": "wipr.svg",
+            "format": "svg",
+            "size": 263,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/wipr.svg"
+        },
+        {
+            "id": "yankees",
+            "name": "Yankees",
+            "file": "yankees.png",
+            "format": "png",
+            "size": 5088,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/yankees.png"
+        },
+        {
+            "id": "Yes-network",
+            "name": "Yes Network",
+            "file": "Yes-network.jpg",
+            "format": "jpg",
+            "size": 7231,
+            "url": "https://raw.githubusercontent.com/nextvapp/channel-logos/main/logos/Yes-network.jpg"
+        }
+    ]
+}

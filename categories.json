@@ -1,0 +1,47 @@
+{
+  "sports": {
+    "name": "Sports",
+    "keywords": ["sports", "espn", "fox sports", "bein", "tudn", "deportes", "mlb", "nba", "nfl", "nhl"],
+    "channels": []
+  },
+  "news": {
+    "name": "News",
+    "keywords": ["news", "noticias", "cnn", "fox news", "msnbc", "bbc"],
+    "channels": []
+  },
+  "entertainment": {
+    "name": "Entertainment",
+    "keywords": ["entertainment", "tnt", "tbs", "usa", "fx", "amc"],
+    "channels": []
+  },
+  "movies": {
+    "name": "Movies",
+    "keywords": ["movies", "hbo", "cinemax", "starz", "showtime", "cine"],
+    "channels": []
+  },
+  "kids": {
+    "name": "Kids",
+    "keywords": ["kids", "disney", "nick", "cartoon", "baby", "junior"],
+    "channels": []
+  },
+  "music": {
+    "name": "Music",
+    "keywords": ["music", "mtv", "vh1", "bet", "ritmo"],
+    "channels": []
+  },
+  "lifestyle": {
+    "name": "Lifestyle",
+    "keywords": ["food", "hgtv", "tlc", "discovery", "history", "nat geo"],
+    "channels": []
+  },
+  "local": {
+    "name": "Local Channels",
+    "keywords": ["local", "telemicro", "color vision", "antena latina", "teleantillas"],
+    "channels": []
+  },
+  "international": {
+    "name": "International",
+    "keywords": ["univision", "telemundo", "caracol", "rcn"],
+    "channels": []
+  }
+}
