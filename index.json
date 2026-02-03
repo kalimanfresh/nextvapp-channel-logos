@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "updated": "2026-02-03 05:07:32",
-    "count": 187,
+    "updated": "2026-02-03 05:33:28",
+    "count": 176,
     "base_url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/",
     "logos": [
         {
@@ -37,12 +37,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/altitude-sports.jpg"
         },
         {
-            "id": "Angeles-lakers",
+            "id": "angeles-lakers",
             "name": "Angeles Lakers",
-            "file": "Angeles-lakers.jpg",
+            "file": "angeles-lakers.jpg",
             "format": "jpg",
             "size": 10519,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Angeles-lakers.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/angeles-lakers.jpg"
         },
         {
             "id": "antena-latina",
@@ -109,14 +109,6 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/bally-sports.png"
         },
         {
-            "id": "Bein-sports",
-            "name": "Bein Sports",
-            "file": "Bein-sports.png",
-            "format": "png",
-            "size": 164013,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Bein-sports.png"
-        },
-        {
             "id": "bein-sports",
             "name": "Bein Sports",
             "file": "bein-sports.png",
@@ -141,12 +133,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/braves.png"
         },
         {
-            "id": "Cadinals",
+            "id": "cadinals",
             "name": "Cadinals",
-            "file": "Cadinals.png",
+            "file": "cadinals.png",
             "format": "png",
             "size": 10330,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Cadinals.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/cadinals.png"
         },
         {
             "id": "canal-caracol",
@@ -189,12 +181,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/cartoon-network.png"
         },
         {
-            "id": "Caza-y-pezca",
+            "id": "caza-y-pezca",
             "name": "Caza Y Pezca",
-            "file": "Caza-y-pezca.png",
+            "file": "caza-y-pezca.png",
             "format": "png",
             "size": 3320,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Caza-y-pezca.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/caza-y-pezca.png"
         },
         {
             "id": "cdn",
@@ -245,12 +237,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/chicago-white-sox.png"
         },
         {
-            "id": "Chuchu-tv",
+            "id": "chuchu-tv",
             "name": "Chuchu Tv",
-            "file": "Chuchu-tv.jpg",
+            "file": "chuchu-tv.jpg",
             "format": "jpg",
             "size": 4291,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Chuchu-tv.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/chuchu-tv.jpg"
         },
         {
             "id": "cincinatti-reds",
@@ -333,12 +325,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/denver-nugets.jpg"
         },
         {
-            "id": "Destination-america",
+            "id": "destination-america",
             "name": "Destination America",
-            "file": "Destination-america.png",
+            "file": "destination-america.png",
             "format": "png",
             "size": 8014,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Destination-america.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/destination-america.png"
         },
         {
             "id": "detroit-pistons",
@@ -477,12 +469,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/encore-westerns.png"
         },
         {
-            "id": "Epix-hits",
+            "id": "epix-hits",
             "name": "Epix Hits",
-            "file": "Epix-hits.png",
+            "file": "epix-hits.png",
             "format": "png",
             "size": 3996,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Epix-hits.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/epix-hits.png"
         },
         {
             "id": "espn",
@@ -525,12 +517,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/food-network.png"
         },
         {
-            "id": "Fox-25",
+            "id": "fox-25",
             "name": "Fox 25",
-            "file": "Fox-25.jpg",
+            "file": "fox-25.jpg",
             "format": "jpg",
             "size": 7531,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Fox-25.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/fox-25.jpg"
         },
         {
             "id": "fox-deportes",
@@ -549,12 +541,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/fox-deportes.webp"
         },
         {
-            "id": "Fubo-sports",
+            "id": "fubo-sports",
             "name": "Fubo Sports",
-            "file": "Fubo-sports.jpg",
+            "file": "fubo-sports.jpg",
             "format": "jpg",
             "size": 56930,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Fubo-sports.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/fubo-sports.jpg"
         },
         {
             "id": "fxm",
@@ -629,12 +621,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/hogar-tv.webp"
         },
         {
-            "id": "HogarTV",
-            "name": "HogarTV",
-            "file": "HogarTV.webp",
+            "id": "hogartv",
+            "name": "Hogartv",
+            "file": "hogartv.webp",
             "format": "webp",
             "size": 2210,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/HogarTV.webp"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/hogartv.webp"
         },
         {
             "id": "houston-astros",
@@ -645,12 +637,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/houston-astros.png"
         },
         {
-            "id": "ID",
-            "name": "ID",
-            "file": "ID.jpg",
+            "id": "id",
+            "name": "Id",
+            "file": "id.jpg",
             "format": "jpg",
             "size": 7496,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/ID.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/id.jpg"
         },
         {
             "id": "images-2",
@@ -693,12 +685,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/liga-dominicana.png"
         },
         {
-            "id": "Logo-caracol-internacional-cmyk-osc",
+            "id": "logo-caracol-internacional-cmyk-osc",
             "name": "Logo Caracol Internacional Cmyk Osc",
-            "file": "Logo-caracol-internacional-cmyk-osc.jpg",
+            "file": "logo-caracol-internacional-cmyk-osc.jpg",
             "format": "jpg",
             "size": 9164,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Logo-caracol-internacional-cmyk-osc.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/logo-caracol-internacional-cmyk-osc.jpg"
         },
         {
             "id": "logo-starzkidsfamily-b",
@@ -725,12 +717,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/mega-tv.jpg"
         },
         {
-            "id": "mega-tv (3)",
+            "id": "mega-tv-(3)",
             "name": "Mega Tv (3)",
-            "file": "mega-tv (3).jpg",
+            "file": "mega-tv-(3).jpg",
             "format": "jpg",
             "size": 3487,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/mega-tv (3).jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/mega-tv-(3).jpg"
         },
         {
             "id": "milwaukee-brewers",
@@ -757,12 +749,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/mtv.jpg"
         },
         {
-            "id": "Natgeo-wild",
+            "id": "natgeo-wild",
             "name": "Natgeo Wild",
-            "file": "Natgeo-wild.png",
+            "file": "natgeo-wild.png",
             "format": "png",
             "size": 2557,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Natgeo-wild.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/natgeo-wild.png"
         },
         {
             "id": "nba",
@@ -797,20 +789,20 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/new-york-mets.png"
         },
         {
-            "id": "New york-yankees",
-            "name": "New York Yankees",
-            "file": "New york-yankees.png",
-            "format": "png",
-            "size": 5088,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/New york-yankees.png"
-        },
-        {
             "id": "new-york-yankees",
             "name": "New York Yankees",
             "file": "new-york-yankees.jpg",
             "format": "jpg",
             "size": 10462,
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/new-york-yankees.jpg"
+        },
+        {
+            "id": "new-york-yankees",
+            "name": "New York Yankees",
+            "file": "new-york-yankees.png",
+            "format": "png",
+            "size": 5088,
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/new-york-yankees.png"
         },
         {
             "id": "nfl",
@@ -829,20 +821,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/nfl.webp"
         },
         {
-            "id": "One-soccer",
+            "id": "one-soccer",
             "name": "One Soccer",
-            "file": "One-soccer.png",
+            "file": "one-soccer.png",
             "format": "png",
             "size": 17138,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/One-soccer.png"
-        },
-        {
-            "id": "OWN",
-            "name": "OWN",
-            "file": "OWN.png",
-            "format": "png",
-            "size": 5078,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/OWN.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/one-soccer.png"
         },
         {
             "id": "own",
@@ -859,14 +843,6 @@
             "format": "png",
             "size": 12711,
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/oxygen.png"
-        },
-        {
-            "id": "Pac-12",
-            "name": "Pac 12",
-            "file": "Pac-12.png",
-            "format": "png",
-            "size": 235481,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Pac-12.png"
         },
         {
             "id": "pac-12",
@@ -901,12 +877,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/philadelphia-phillies.png"
         },
         {
-            "id": "Pirates-pitburg",
+            "id": "pirates-pitburg",
             "name": "Pirates Pitburg",
-            "file": "Pirates-pitburg.png",
+            "file": "pirates-pitburg.png",
             "format": "png",
             "size": 4766,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Pirates-pitburg.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/pirates-pitburg.png"
         },
         {
             "id": "ppv",
@@ -915,14 +891,6 @@
             "format": "png",
             "size": 21408,
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/ppv.png"
-        },
-        {
-            "id": "RAI",
-            "name": "RAI",
-            "file": "RAI.png",
-            "format": "png",
-            "size": 12456,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/RAI.png"
         },
         {
             "id": "rai",
@@ -941,12 +909,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/rcn.png"
         },
         {
-            "id": "Rcn-television",
+            "id": "rcn-television",
             "name": "Rcn Television",
-            "file": "Rcn-television.gif",
+            "file": "rcn-television.gif",
             "format": "gif",
             "size": 7168,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Rcn-television.gif"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/rcn-television.gif"
         },
         {
             "id": "redsox",
@@ -989,12 +957,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/rnn.svg"
         },
         {
-            "id": "San-diego-padres",
+            "id": "san-diego-padres",
             "name": "San Diego Padres",
-            "file": "San-diego-padres.png",
+            "file": "san-diego-padres.png",
             "format": "png",
             "size": 11275,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/San-diego-padres.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/san-diego-padres.png"
         },
         {
             "id": "serie-del-caribe",
@@ -1021,20 +989,20 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/sitmoson.png"
         },
         {
-            "id": "Sky-cinema-action",
+            "id": "sky-cinema-action",
             "name": "Sky Cinema Action",
-            "file": "Sky-cinema-action.png",
+            "file": "sky-cinema-action.png",
             "format": "png",
             "size": 5611,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Sky-cinema-action.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/sky-cinema-action.png"
         },
         {
-            "id": "STAR-channel",
-            "name": "STAR Channel",
-            "file": "STAR-channel.png",
+            "id": "star-channel",
+            "name": "Star Channel",
+            "file": "star-channel.png",
             "format": "png",
             "size": 29933,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/STAR-channel.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/star-channel.png"
         },
         {
             "id": "star-disney",
@@ -1043,14 +1011,6 @@
             "format": "jpg",
             "size": 67054,
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/star-disney.jpg"
-        },
-        {
-            "id": "Star-Movies-Action",
-            "name": "Star Movies Action",
-            "file": "Star-Movies-Action.jpg",
-            "format": "jpg",
-            "size": 5732,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Star-Movies-Action.jpg"
         },
         {
             "id": "star-movies-action",
@@ -1133,14 +1093,6 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tampa-bay-rays.png"
         },
         {
-            "id": "TBS",
-            "name": "TBS",
-            "file": "TBS.png",
-            "format": "png",
-            "size": 2234,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/TBS.png"
-        },
-        {
             "id": "tbs",
             "name": "Tbs",
             "file": "tbs.png",
@@ -1149,12 +1101,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tbs.png"
         },
         {
-            "id": "Teen-nick",
+            "id": "teen-nick",
             "name": "Teen Nick",
-            "file": "Teen-nick.png",
+            "file": "teen-nick.png",
             "format": "png",
             "size": 2454,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Teen-nick.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/teen-nick.png"
         },
         {
             "id": "tele-salbador",
@@ -1165,20 +1117,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tele-salbador.jpg"
         },
         {
-            "id": "Tele-sur",
+            "id": "tele-sur",
             "name": "Tele Sur",
-            "file": "Tele-sur.png",
+            "file": "tele-sur.png",
             "format": "png",
             "size": 3394,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Tele-sur.png"
-        },
-        {
-            "id": "TELE-UNIVERSO",
-            "name": "TELE UNIVERSO",
-            "file": "TELE-UNIVERSO.jpg",
-            "format": "jpg",
-            "size": 7907,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/TELE-UNIVERSO.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tele-sur.png"
         },
         {
             "id": "tele-universo",
@@ -1205,20 +1149,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/telecentro.jpg"
         },
         {
-            "id": "Telehits",
+            "id": "telehits",
             "name": "Telehits",
-            "file": "Telehits.jpg",
+            "file": "telehits.jpg",
             "format": "jpg",
             "size": 17664,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Telehits.jpg"
-        },
-        {
-            "id": "Telemetro",
-            "name": "Telemetro",
-            "file": "Telemetro.png",
-            "format": "png",
-            "size": 7560,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Telemetro.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/telehits.jpg"
         },
         {
             "id": "telemetro",
@@ -1227,14 +1163,6 @@
             "format": "png",
             "size": 7560,
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/telemetro.png"
-        },
-        {
-            "id": "Telemicro",
-            "name": "Telemicro",
-            "file": "Telemicro.png",
-            "format": "png",
-            "size": 15752,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Telemicro.png"
         },
         {
             "id": "telemicro",
@@ -1253,20 +1181,20 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/telemundo.png"
         },
         {
-            "id": "Telemundo-internacional",
+            "id": "telemundo-internacional",
             "name": "Telemundo Internacional",
-            "file": "Telemundo-internacional.jpg",
+            "file": "telemundo-internacional.jpg",
             "format": "jpg",
             "size": 6235,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Telemundo-internacional.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/telemundo-internacional.jpg"
         },
         {
-            "id": "Telemundo-puerto-rico",
+            "id": "telemundo-puerto-rico",
             "name": "Telemundo Puerto Rico",
-            "file": "Telemundo-puerto-rico.jpg",
+            "file": "telemundo-puerto-rico.jpg",
             "format": "jpg",
             "size": 17625,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Telemundo-puerto-rico.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/telemundo-puerto-rico.jpg"
         },
         {
             "id": "telesistema",
@@ -1301,14 +1229,6 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/texas-rangers.png"
         },
         {
-            "id": "TLC",
-            "name": "TLC",
-            "file": "TLC.png",
-            "format": "png",
-            "size": 1608,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/TLC.png"
-        },
-        {
             "id": "tlc",
             "name": "Tlc",
             "file": "tlc.png",
@@ -1317,12 +1237,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tlc.png"
         },
         {
-            "id": "TNT-Serie",
-            "name": "TNT Serie",
-            "file": "TNT-Serie.png",
+            "id": "tnt-serie",
+            "name": "Tnt Serie",
+            "file": "tnt-serie.png",
             "format": "png",
             "size": 97897,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/TNT-Serie.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tnt-serie.png"
         },
         {
             "id": "tnt-series",
@@ -1341,36 +1261,28 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/toronto-blue-jays.png"
         },
         {
-            "id": "Toronto-Raptors",
+            "id": "toronto-raptors",
             "name": "Toronto Raptors",
-            "file": "Toronto-Raptors.jpg",
+            "file": "toronto-raptors.jpg",
             "format": "jpg",
             "size": 13313,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Toronto-Raptors.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/toronto-raptors.jpg"
         },
         {
-            "id": "Travel-Channel",
+            "id": "travel-channel",
             "name": "Travel Channel",
-            "file": "Travel-Channel.jpg",
+            "file": "travel-channel.jpg",
             "format": "jpg",
             "size": 5247,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Travel-Channel.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/travel-channel.jpg"
         },
         {
-            "id": "TSI",
-            "name": "TSI",
-            "file": "TSI.jpg",
+            "id": "tsi",
+            "name": "Tsi",
+            "file": "tsi.jpg",
             "format": "jpg",
             "size": 6945,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/TSI.jpg"
-        },
-        {
-            "id": "TUDN",
-            "name": "TUDN",
-            "file": "TUDN.png",
-            "format": "png",
-            "size": 25892,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/TUDN.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tsi.jpg"
         },
         {
             "id": "tudn",
@@ -1397,20 +1309,20 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tyc-sports.png"
         },
         {
-            "id": "Universal-channel",
-            "name": "Universal Channel",
-            "file": "Universal-channel.webp",
-            "format": "webp",
-            "size": 12292,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Universal-channel.webp"
-        },
-        {
             "id": "universal-channel",
             "name": "Universal Channel",
             "file": "universal-channel.jpg",
             "format": "jpg",
             "size": 7988,
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/universal-channel.jpg"
+        },
+        {
+            "id": "universal-channel",
+            "name": "Universal Channel",
+            "file": "universal-channel.webp",
+            "format": "webp",
+            "size": 12292,
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/universal-channel.webp"
         },
         {
             "id": "universal-crime",
@@ -1469,12 +1381,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/we-tv.png"
         },
         {
-            "id": "WETV",
-            "name": "WETV",
-            "file": "WETV.png",
+            "id": "wetv",
+            "name": "Wetv",
+            "file": "wetv.png",
             "format": "png",
             "size": 3327,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/WETV.png"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/wetv.png"
         },
         {
             "id": "wipr",
@@ -1493,12 +1405,12 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/yankees.png"
         },
         {
-            "id": "Yes-network",
+            "id": "yes-network",
             "name": "Yes Network",
-            "file": "Yes-network.jpg",
+            "file": "yes-network.jpg",
             "format": "jpg",
             "size": 7231,
-            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/Yes-network.jpg"
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/yes-network.jpg"
         }
     ]
 }
