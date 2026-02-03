@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "updated": "2026-02-03 05:33:28",
-    "count": 176,
+    "updated": "2026-02-03 16:00:01",
+    "count": 182,
     "base_url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/",
     "logos": [
         {
@@ -261,6 +261,14 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/cine-dinamita.png"
         },
         {
+            "id": "cnn",
+            "name": "Cnn",
+            "file": "cnn.png",
+            "format": "png",
+            "size": 18685,
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/cnn.png"
+        },
+        {
             "id": "color-vision",
             "name": "Color Vision",
             "file": "color-vision.png",
@@ -421,6 +429,14 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/disney-xd.png"
         },
         {
+            "id": "dominican-view",
+            "name": "Dominican View",
+            "file": "dominican-view.png",
+            "format": "png",
+            "size": 3278,
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/dominican-view.png"
+        },
+        {
             "id": "dragon-ball-z",
             "name": "Dragon Ball Z",
             "file": "dragon-ball-z.png",
@@ -443,6 +459,14 @@
             "format": "png",
             "size": 6644,
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/el-lider-5.png"
+        },
+        {
+            "id": "en-television",
+            "name": "En Television",
+            "file": "en-television.png",
+            "format": "png",
+            "size": 9405,
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/en-television.png"
         },
         {
             "id": "encore-classic",
@@ -819,6 +843,14 @@
             "format": "webp",
             "size": 42444,
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/nfl.webp"
+        },
+        {
+            "id": "noticias-univision-247",
+            "name": "Noticias Univision 247",
+            "file": "noticias-univision-247.png",
+            "format": "png",
+            "size": 51201,
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/noticias-univision-247.png"
         },
         {
             "id": "one-soccer",
@@ -1293,6 +1325,14 @@
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tudn.png"
         },
         {
+            "id": "tv-quisqueya",
+            "name": "Tv Quisqueya",
+            "file": "tv-quisqueya.png",
+            "format": "png",
+            "size": 4644,
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tv-quisqueya.png"
+        },
+        {
             "id": "tvdom",
             "name": "Tvdom",
             "file": "tvdom.png",
@@ -1307,6 +1347,14 @@
             "format": "png",
             "size": 3467,
             "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/tyc-sports.png"
+        },
+        {
+            "id": "unimas",
+            "name": "Unimas",
+            "file": "unimas.png",
+            "format": "png",
+            "size": 3320,
+            "url": "https://raw.githubusercontent.com/kalimanfresh/nextvapp-channel-logos/main/logos/unimas.png"
         },
         {
             "id": "universal-channel",
